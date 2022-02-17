@@ -1,3 +1,3 @@
-# suburb
-# might guy
-# 8th gate of death
+# Btech
+# 3rd year
+# c,python
